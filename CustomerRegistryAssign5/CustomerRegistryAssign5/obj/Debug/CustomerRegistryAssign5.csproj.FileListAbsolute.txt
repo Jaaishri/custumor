@@ -1,0 +1,11 @@
+C:\Users\Hemanshu\source\repos\CustomerRegistryAssign5\CustomerRegistryAssign5\bin\Debug\CustomerRegistryAssign5.exe.config
+C:\Users\Hemanshu\source\repos\CustomerRegistryAssign5\CustomerRegistryAssign5\bin\Debug\CustomerRegistryAssign5.exe
+C:\Users\Hemanshu\source\repos\CustomerRegistryAssign5\CustomerRegistryAssign5\bin\Debug\CustomerRegistryAssign5.pdb
+C:\Users\Hemanshu\source\repos\CustomerRegistryAssign5\CustomerRegistryAssign5\obj\Debug\CustomerRegistryAssign5.csprojAssemblyReference.cache
+C:\Users\Hemanshu\source\repos\CustomerRegistryAssign5\CustomerRegistryAssign5\obj\Debug\CustomerRegistryAssign5.ContactForm.resources
+C:\Users\Hemanshu\source\repos\CustomerRegistryAssign5\CustomerRegistryAssign5\obj\Debug\CustomerRegistryAssign5.MainForm.resources
+C:\Users\Hemanshu\source\repos\CustomerRegistryAssign5\CustomerRegistryAssign5\obj\Debug\CustomerRegistryAssign5.Properties.Resources.resources
+C:\Users\Hemanshu\source\repos\CustomerRegistryAssign5\CustomerRegistryAssign5\obj\Debug\CustomerRegistryAssign5.csproj.GenerateResource.cache
+C:\Users\Hemanshu\source\repos\CustomerRegistryAssign5\CustomerRegistryAssign5\obj\Debug\CustomerRegistryAssign5.csproj.CoreCompileInputs.cache
+C:\Users\Hemanshu\source\repos\CustomerRegistryAssign5\CustomerRegistryAssign5\obj\Debug\CustomerRegistryAssign5.exe
+C:\Users\Hemanshu\source\repos\CustomerRegistryAssign5\CustomerRegistryAssign5\obj\Debug\CustomerRegistryAssign5.pdb
